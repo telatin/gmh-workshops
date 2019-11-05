@@ -8,17 +8,19 @@ _Page under costruction, final program to be announced soon_
  * 11 December 2019 - How to start doing data analysis of NGS datasets
  
  
-### Program details 
+### :page_with_curl: Program details 
 
- * November 28th - Prof. Chiara Romualdi (University of Padua)
+ 
  
  **Statistical analysis of Transcriptomics datasets**
+ _November 28th - Prof. Chiara Romualdi (University of Padua)_
  
  Chiara Romualdi is an associate professor of biostatistics at the University of Padua (Italy), and her group has been working on transcriptome analysis for the last 20 years (starting with microarrays). We asked her to deliver a workshop on numerical analysis of transcriptomes.
  
- * November 28th - Prof. Nicola Vitulo (University of Verona)
+ 
  
  **Bioinformatics analysis of 16S experiments, and how to integrate multiple -omics**
+ _November 28th - Prof. Nicola Vitulo (University of Verona)_
  
  Nicola Vitulo is an associate professor of bioinformatics at the University of Verona (Italy). He's currently working on several aspects of microbiome analysis, including novel statistical methods for normalization of metabarcoding contingency tables.
  
