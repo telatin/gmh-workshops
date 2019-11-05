@@ -5,7 +5,7 @@ _Page under costruction, final program to be announced soon_
 
 ## :calendar: Upcoming Events
  * 27-28 November 2019 - Analysis of microbiome and transcriptome datasets
- * 11 December 2019 - How to start doing data analysis of NGS datasets
+ * 9 December 2019 - How to start doing data analysis of NGS datasets
  
  
 ## :page_with_curl: Program details 
@@ -40,7 +40,7 @@ _14.00  - Prof. Nicola Vitulo (University of Verona, Italy)_
 
  Nicola Vitulo is an associate professor of bioinformatics at the University of Verona (Italy). He's currently working on several aspects of microbiome analysis, including novel statistical methods for normalization of metabarcoding contingency tables.
  
-### 11th December 2019 (TBC) 
+### 9th December 2019 (TBC) 
 
 :small_blue_diamond: **A primer on data analysis with R (or Python)**
 
