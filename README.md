@@ -3,6 +3,13 @@
 _Page under costruction, final program to be announced soon_
 
 
+### :calendar: Upcoming Events
+ * 27-28 November 2019 - Analysis of microbiome and transcriptome datasets
+ * 11 December 2019 - How to start doing data analysis of NGS datasets
+ 
+ 
+### Program details 
+
  * November 28th - Prof. Chiara Romualdi (University of Padua)
  
  **Statistical analysis of Transcriptomics datasets**
