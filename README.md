@@ -1,4 +1,4 @@
-## Gut Microbes and Health Workshops
+## Gut Microbes and Health - Bioinformatics Workshops
 
 _Page under costruction, final program to be announced soon_
 
