@@ -36,4 +36,7 @@ _28.11.2019 (14.00)  - Prof. Nicola Vitulo (University of Verona, Italy)_
 
  Nicola Vitulo is an associate professor of bioinformatics at the University of Verona (Italy). He's currently working on several aspects of microbiome analysis, including novel statistical methods for normalization of metabarcoding contingency tables.
  
- For informations: andrea.telatin@quadram.ac.uk
+### :e-mail: Registration
+The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=60789)
+For informations: andrea.telatin@quadram.ac.uk
+
