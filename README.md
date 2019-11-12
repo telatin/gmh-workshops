@@ -50,7 +50,7 @@ How do we make sense of datasets? We should probably start using R (and, if we c
 With our guest speaker, lead bioinformatician in the [Genomic variation unit](https://www.iigm.it/site/anteprima.php?id_app=1536&t=approfondimento&m=extra&id=337) in Turin, we will demistify the process and see how to start a new numerical workflow.
 
 ## :e-mail: Registration
-The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=60789)
+The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789)
 
 For info: andrea.telatin@quadram.ac.uk
 
