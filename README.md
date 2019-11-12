@@ -17,7 +17,7 @@ _Page under costruction, final program to be announced soon_
  
 _10.30 - Dr. Andrea Telatin (Quadram Institute, Norwich UK)_
 
-What can answers can we get from microbiome analysis? What happens to our samples after DNA extraction? An overview of 16S and metagenomics protocols, from sequencing to the primary bioinformatics analysis.
+An overview of 16S and metagenomics protocols, from sequencing to the primary bioinformatics analysis.
 
 :small_blue_diamond: **Introduction to RNA-Seq**
 
@@ -27,18 +27,15 @@ An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary 
  
 ### 28th November 2019
 
-:small_blue_diamond:  **Statistical analysis of Transcriptomics datasets**
+:small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
  
 _10.00 - Prof. Chiara Romualdi (University of Padua, Italy)_
  
- Chiara Romualdi is an associate professor of biostatistics at the University of Padua (Italy), and her group has been working on transcriptome analysis for the last 20 years (starting with microarrays). We asked her to deliver a workshop on numerical analysis of transcriptomes. See also: [Romualdi lab website](http://romualdi.bio.unipd.it/)
 
 
-:small_blue_diamond: **Bioinformatics analysis of 16S experiments, and how to integrate multiple -omics**
+:small_blue_diamond: **Interpreting data from metabarcoding experiments**
 
 _14.00  - Prof. Nicola Vitulo (University of Verona, Italy)_
-
- Nicola Vitulo is an associate professor of bioinformatics at the University of Verona (Italy). He's currently working on several aspects of microbiome analysis, including novel statistical methods for normalization of metabarcoding contingency tables.
  
 ### 9th December 2019 (TBC) 
 
@@ -53,4 +50,11 @@ With our guest speaker, lead bioinformatician in the [Genomic variation unit](ht
 The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789)
 
 For info: andrea.telatin@quadram.ac.uk
+
+## Speakers bio
+
+**Chiara Romualdi** is an Associate Professor of biostatistics at the University of Padua (Italy), and her group has been working on transcriptome analysis for the last 20 years (starting with microarrays). We asked her to deliver a workshop on numerical analysis of transcriptomes. See also: [Romualdi lab website](http://romualdi.bio.unipd.it/)
+
+**Nicola Vitulo** is an Associate Professor at the University of Verona, Department of Biotechnology. His work as a computational biologist began on 2002. During these years he had acquired a robust expertise in bioinformatics focusing on gene prediction and annotation, gene expression analysis, comparative genomics and data managment. He had worked for many years in the genomic area developing a strong interest for many aspects of this field, especially focusing on the innovations and challenges introduced by the NGS technologies.
+Prof. Vitulo is currently involved in several metagenomics and metabarcoding projects to study the correlation between the composition of the gut microbiota and diseases
 
