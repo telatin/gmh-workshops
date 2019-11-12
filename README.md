@@ -1,11 +1,11 @@
 ## Gut Microbes and Health - Bioinformatics Workshops
 
-_Page under costruction, final program to be announced soon_
+
 
 
 ## :calendar: Upcoming Events
  * 27-28 November 2019 - Analysis of microbiome and transcriptome datasets
- * 9 December 2019 - How to start doing data analysis of NGS datasets
+ * 9 December 2019 - A primer on data analysis using Pandas or R (TBC)
  
  
 ## :page_with_curl: Program details 
