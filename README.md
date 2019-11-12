@@ -11,7 +11,7 @@
 ## :page_with_curl: Program details 
 
 
-### 27th November 2019
+### 27th November 2019 (UG44A)
 
 :small_blue_diamond: **Introduction to microbiome analysis**
  
@@ -25,7 +25,7 @@ _14.00 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
  
 An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary bioinformatics analysis.
  
-### 28th November 2019
+### 28th November 2019  (UG55A)
 
 :small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
  
