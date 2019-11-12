@@ -7,7 +7,7 @@
 
 ## :page_with_curl: Program details 
 
-### 27th November 2019 (UG44A)
+### 27th November 2019 (UG44A) - an introduction for beginners
 
 :small_blue_diamond: **Introduction to microbiome analysis**
  
@@ -21,7 +21,7 @@ _14.00 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
  
 An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary bioinformatics analysis.
  
-### 28th November 2019  (UG55A)
+### 28th November 2019  (UG55A) - a more detailed outlook from our guest speakers
 
 :small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
  
@@ -48,3 +48,12 @@ For info: andrea.telatin@quadram.ac.uk
 **Nicola Vitulo** is an Associate Professor at the University of Verona, Department of Biotechnology. His work as a computational biologist began on 2002. During these years he had acquired a robust expertise in bioinformatics focusing on gene prediction and annotation, gene expression analysis, comparative genomics and data managment. He had worked for many years in the genomic area developing a strong interest for many aspects of this field, especially focusing on the innovations and challenges introduced by the NGS technologies.
 Prof. Vitulo is currently involved in several metagenomics and metabarcoding projects to study the correlation between the composition of the gut microbiota and diseases
 
+## :question: FAQs
+
+_Can I attend only one seminar (or some seminars)?_
+
+Yes, definitely. The two seminars on November 27th are introductory and will give you the right background to better understand the two lessons from Chiara Romualdi and Nicola Vitulo. Feel free to skip the introduction if you already have some background!
+
+_Should I register?_
+
+We organized the events in a seminar-style, so registration is not required.
