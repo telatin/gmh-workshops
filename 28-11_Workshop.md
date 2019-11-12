@@ -56,4 +56,4 @@ Yes, definitely. The two seminars on November 27th are introductory and will giv
 
 _Should I register?_
 
-We organized the events in a seminar-style, so registration is not required.
+You can register from [NBI Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=60789)
