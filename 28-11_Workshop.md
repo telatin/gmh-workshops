@@ -37,6 +37,8 @@ _14.00  - Prof. Nicola Vitulo (University of Verona, Italy)_
 ## :e-mail: Registration
 The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789)
 
+Host: Andrew Page
+
 For info: andrea.telatin@quadram.ac.uk
 
 ## :bust_in_silhouette: Speakers bio
