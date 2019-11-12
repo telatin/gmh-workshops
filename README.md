@@ -4,7 +4,7 @@
 
 
 ## :calendar: Upcoming Events
- * 27-28 November 2019 - Analysis of microbiome and transcriptome datasets
+ * [27-28 November 2019 - Analysis of microbiome and transcriptome datasets](28-11_Workshop.md)
  * 9 December 2019 - A primer on data analysis using Pandas or R (TBC)
  
  
