@@ -51,7 +51,7 @@ The event is open to NBI students/postdocs, please register from the [event page
 
 For info: andrea.telatin@quadram.ac.uk
 
-## Speakers bio
+## :bust_in_silhouette: Speakers bio
 
 **Chiara Romualdi** is an Associate Professor of biostatistics at the University of Padua (Italy), and her group has been working on transcriptome analysis for the last 20 years (starting with microarrays). We asked her to deliver a workshop on numerical analysis of transcriptomes. See also: [Romualdi lab website](http://romualdi.bio.unipd.it/)
 
