@@ -11,13 +11,13 @@
 
 :small_blue_diamond: **Introduction to microbiome analysis**
  
-_10.30 - Dr. Andrea Telatin (Quadram Institute, Norwich UK)_
+_10.30 - 11.15 - Dr. Andrea Telatin (Quadram Institute, Norwich UK)_
 
 An overview of 16S and metagenomics protocols, from sequencing to the primary bioinformatics analysis.
 
 :small_blue_diamond: **Introduction to RNA-Seq**
 
-_14.00 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
+_14.00 - 14.45 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
  
 An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary bioinformatics analysis.
  
@@ -25,13 +25,13 @@ An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary 
 
 :small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
  
-_10.00 - Prof. Chiara Romualdi (University of Padua, Italy)_
+_10.00 - 11.45 - Prof. Chiara Romualdi (University of Padua, Italy)_
  
 
 
 :small_blue_diamond: **Interpreting data from metabarcoding experiments**
 
-_14.00  - Prof. Nicola Vitulo (University of Verona, Italy)_
+_15.30 - 16.45  - Prof. Nicola Vitulo (University of Verona, Italy)_
  
 
 ## :e-mail: Registration
