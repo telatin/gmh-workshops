@@ -17,7 +17,7 @@ An overview of 16S and metagenomics protocols, from sequencing to the primary bi
 
 :small_blue_diamond: **Introduction to RNA-Seq**
 
-_14.00 - 14.45 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
+_14.30 - 15.15 - Dr. Perla Troncoso Rey (Quadram Institute, Norwich UK)_
  
 An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary bioinformatics analysis.
  
