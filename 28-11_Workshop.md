@@ -57,3 +57,7 @@ Yes, definitely. The two seminars on November 27th are introductory and will giv
 _Should I register?_
 
 You can register from [NBI Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789)
+
+_Where is the venue?_
+
+This is an event organized at the [Quadram Institute](https://quadram.ac.uk) in Norwich. Check the address in the ["How to find us" page](https://quadram.ac.uk/about/how-to-find-us/). The two rooms are both in the _upper ground floor_, and our reception will be glad to help you finding them.
