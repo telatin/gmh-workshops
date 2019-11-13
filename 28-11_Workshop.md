@@ -35,7 +35,7 @@ _15.30 - 16.45  - Prof. Nicola Vitulo (University of Verona, Italy)_
  
 
 ## :e-mail: Registration
-The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789)
+The event is open to NBI students/postdocs, please register from the [event page](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=60789). UEA students welcome, but please contact the organiser.
 
 Host: Andrew Page
 
