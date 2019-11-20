@@ -27,7 +27,7 @@ An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary 
 
 :small_blue_diamond: **Interpreting data from metabarcoding experiments**
 
-_10.00 - 11.45 - Prof. Nicola Vitulo (University of Verona, Italy)_
+_10.30 - 11.30 - Prof. Nicola Vitulo (University of Verona, Italy)_
  
 
 :small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
