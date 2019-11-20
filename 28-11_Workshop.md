@@ -25,15 +25,15 @@ An overview of transcriptome analysis (RNA-Seq), from sequencing to the primary 
 
 :warning: The seminars from Prof. Vitulo and Prof. Romualdi have been swapped as the first will introduce concepts useful for the second.
 
-:small_blue_diamond: **Interpreting data from metabarcoding experiments**
-
-_10.30 - 11.30 - Prof. Nicola Vitulo (University of Verona, Italy)_
- 
-
 :small_blue_diamond:  **Notes on statistical methods for RNA-Seq analysis**
 
+_10.30 - 11.30 - Prof. Chiara Romualdi (University of Padua, Italy)_
+ 
 
-_15.30 - 16.45  - Prof. Chiara Romualdi (University of Padua, Italy)_
+:small_blue_diamond: **Interpreting data from metabarcoding experiments**
+
+
+_15.30 - 16.45  - Prof. Nicola Vitulo (University of Verona, Italy)_
  
 
 ## :e-mail: Registration
