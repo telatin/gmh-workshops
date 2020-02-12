@@ -1,11 +1,9 @@
 ## Gut Microbes and Health - Bioinformatics Workshops
 
 
-
-
-## :calendar:
+## :calendar: Events
  * [27-28 November 2019 - Analysis of microbiome and transcriptome datasets](28-11_Workshop.md)
-  
+ * [February-June 2020 - PhD Training on Data Analysis](2020-PhD-NRP-DTP.md)
  
 
 ## :e-mail: Info
