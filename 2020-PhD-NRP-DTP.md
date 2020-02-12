@@ -2,6 +2,15 @@
 
 Python and R skills for PhD Students
 
+## Goals
+
+ - Understand common outputs of metagenomics analyses
+ - Import feature tables in R (or Python) and perform basic statistics
+ - Plot the taxonomical composition of a metabarcoding/metagenomics experiment
+ 
+## Curricula
+
+The background of our PhD students can be different (computer science, or molecular biology/microbiology), so we can tailor our training to the specific needs of each student.
 
 
 ## Powered by DataCamp
